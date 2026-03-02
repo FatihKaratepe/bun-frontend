@@ -1,0 +1,9 @@
+{
+  "snapshot": false,
+  "supportsES6": true,
+  "withSeparateModelsAndApi": true,
+  "modelPackage": "interfaces",
+  "apiPackage": "services",
+  "useSingleRequestParameter": true,
+  "ensureUniqueParams": false
+}
